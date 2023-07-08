@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.heading-style {
+  color: #1e293b;
+  font-family: 'Bree Serif';
+}
+.input-box {
+  height: 40px;
+  width: 150px;
+  border-radius: 5px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.input-container {
+  display: flex;
+  flex-direction: row;
+}
+.search-image {
+  height: 40px;
+  width: 40px;
+}

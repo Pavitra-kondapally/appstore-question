@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.tab-btn {
+  height: 40px;
+  width: 80px;
+  border-radius: 5px;
+  border-width: 0px;
+  margin: 10px;
+}
+.active-tab-btn {
+  border-color: #2563eb;
+  text-decoration: underline;
+  margin-bottom: 10px;
+  color: #2563eb;
+}
+.tab-item-container {
+  display: inline-block;
+}
